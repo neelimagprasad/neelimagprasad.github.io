@@ -23,3 +23,8 @@
 .bio-mono p:last-child {
   margin-bottom: 0;
 }
+.bio-mono {
+  font-size: 0.95rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
