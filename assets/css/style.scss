@@ -12,27 +12,25 @@
    ================================ */
 
 .page-header {
-  background-image: url("{{ 'header.jpg' | relative_url }}");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-
-  /* Controls banner height */
-  padding: 4rem 2rem;
-
-  position: relative;
+  background: url("/assets/images/banner.jpg") center / cover no-repeat !important;
 }
 
-/* Dark overlay so title text stays readable */
+/* Optional: make the header taller so you can see the image */
+.page-header {
+  padding: 4rem 2rem !important;
+}
+
+/* Optional: dark overlay for readability */
+.page-header {
+  position: relative;
+}
 .page-header::before {
   content: "";
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.35);
+  background: rgba(0,0,0,0.35);
   pointer-events: none;
 }
-
-/* Keep title text above overlay */
 .page-header > * {
   position: relative;
 }
