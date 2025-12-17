@@ -12,7 +12,7 @@ Before beginning my Ph.D., I worked as a Computer Scientist at the Naval Air Sys
 
 
 
-[CV](CV_Everley_Tseng_Sep25.pdf) • [LinkedIn](https://www.linkedin.com/in/everley-tseng/) • [Google Scholar](https://scholar.google.com/citations?user=Ul6YnP8AAAAJ) • [GitHub](https://github.com/EverleyTseng) • [Email](mailto:yu-yun.tseng@colorado.edu)
+[CV](CV_Everley_Tseng_Sep25.pdf) • [LinkedIn](https://www.linkedin.com/in/everley-tseng/) • [Google Scholar](https://scholar.google.com/citations?user=Ul6YnP8AAAAJ) • [GitHub](https://github.com/neelimagprasad) • [Email](mailto:neelima.prasad@colorado.edu)
 
 
 ## EDUCATION
