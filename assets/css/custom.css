@@ -28,3 +28,21 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.site-header {
+  background-image: url("header.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 220px;
+}
+
+/* Make text readable on top of image */
+.site-title,
+.site-title:visited {
+  color: white;
+  font-weight: 600;
+}
+
+.site-nav {
+  background: transparent;
+}
