@@ -1,10 +1,17 @@
-<div style="display:flex; align-items:flex-start; gap:16px; flex-wrap:wrap;">
-  <img src="profile.png" alt="Alt text" style="width:180px; max-width:40vw; height:auto; border-radius:6px;">
-  <div markdown="1">
-    My name is Neelima Prasad and I am a third year Ph.D. candidate in Computer Science at the University of Colorado Boulder, advised by Professor Danna Gurari in the [Image and Video Computing (IVC) Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html). My research centers on developing vision systems that can accurately segment and track objects and their constituent parts across images and videos. I focus on hierarchical instance segmentation, multi-object tracking, and the creation of fine-grained datasets that enable richer reasoning about object structure. Broadly, I am motivated by building models that understand not only what an object is, but how its parts relate and evolve over time, with applications in accessibility, assistive technologies, and privacy-aware video understanding. Before beginning my Ph.D., I worked as a Computer Scientist at the Naval Air Systems Command (NAVAIR), where I developed reinforcement learning systems for various defense simulations and designed tools for radar and electronic warfare analysis. Earlier, I spent several years as a research intern at Los Alamos National Laboratory, contributing to projects in cryptography, network analysis, and astrophysics, including co-authoring a publication on gamma-ray burst modeling. I earned my B.S. in Mathematics & Computer Science from UC San Diego, and have since gained experience across industry and research labs. Currently I am employed as an AI engineering intern at LightTable where I hope to to continue to bridge academic innovation and industry-scale deployment in computer vison. I am excited to continue shaping research that pushes the field forward while opening new possibilities for how intelligent visual systems can support real-world applications.
-    
-  </div>
-</div>
+<img src="profile.png"
+     alt="Photo of Neelima"
+     style="width:180px; max-width:40vw; height:auto; border-radius:6px; float:left; margin-right:16px; margin-bottom:8px;">
+
+<p>
+  My name is Neelima Prasad and I am a third-year Ph.D. candidate in Computer Science at the University of Colorado Boulder, advised by Professor Danna Gurari in the <a href="https://home.cs.colorado.edu/~DrG/IVC_Group.html">Image and Video Computing (IVC) Group</a>. My research centers on developing vision systems that can accurately segment and track objects and their constituent parts across images and videos. I focus on hierarchical instance segmentation, multi-object tracking, and the creation of fine-grained datasets that enable richer reasoning about object structure. Broadly, I am motivated by building models that understand not only what an object is, but how its parts relate and evolve over time, with applications in accessibility, assistive technologies, and privacy-aware video understanding.
+</p>
+
+<p>
+  Before beginning my Ph.D., I worked as a Computer Scientist at the Naval Air Systems Command (NAVAIR), where I developed reinforcement learning systems for various defense simulations and designed tools for radar and electronic warfare analysis. Earlier, I spent several years as a research intern at Los Alamos National Laboratory, contributing to projects in cryptography, network analysis, and astrophysics, including co-authoring a publication on gamma-ray burst modeling. I earned my B.S. in Mathematics &amp; Computer Science from UC San Diego and have since gained experience across industry and research labs. I am currently an AI engineering intern at LightTable, where I hope to continue bridging academic innovation and industry-scale deployment in computer vision, and I am excited to help shape research that pushes the field forward while opening new possibilities for how intelligent visual systems can support real-world applications.
+</p>
+
+<div style="clear:both;"></div>
+
 
 
 
