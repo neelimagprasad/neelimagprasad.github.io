@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
-![Photo of Neelima](profile.png){: style="display:block; float:left; width:185px; height:247px; object-fit:cover; object-position:50% 85%; border-radius:6px; margin:8px 16px 8px 0; vertical-align:top;" }
+![Photo of Neelima](profile.png){: style="display:block; float:left; width:200px; height:267px; object-fit:cover; object-position:50% 85%; border-radius:6px; margin:8px 16px 8px 0; vertical-align:top;" }
 
 > My name is Neelima Prasad and I am a third-year Ph.D. candidate in Computer Science at the University of Colorado Boulder, advised by Professor Danna Gurari in the [Image and Video Computing (IVC) Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html). My research centers on developing vision systems that can accurately segment and track objects and their constituent parts across images and videos. I focus on hierarchical instance segmentation, multi-object tracking, and the creation of fine-grained datasets that enable richer reasoning about object structure.  
 >  
