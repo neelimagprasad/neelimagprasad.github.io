@@ -7,7 +7,7 @@
 > Before beginning my Ph.D., I worked as a Computer Scientist at the Naval Air Systems Command (NAVAIR), where I developed reinforcement learning systems for various defense simulations and designed tools for radar and electronic warfare analysis. Earlier, I spent several years as a research intern at Los Alamos National Laboratory, contributing to projects in cryptography, network analysis, and astrophysics, including co-authoring a publication on gamma-ray burst modeling. I earned my B.S. in Mathematics & Computer Science from UC San Diego and have since gained experience across industry and research labs. I am currently an AI engineering intern at LightTable, where I hope to continue bridging academic innovation and industry-scale deployment in computer vision.
 {: .bio-mono}
 
-<br clear="all"/>
+
 
 <div class="footer-links">
   <a href="resume.pdf">CV</a>
@@ -15,7 +15,7 @@
   <a href="https://github.com/neelimagprasad">GitHub</a>
   <a href="mailto:neelima.prasad@colorado.edu">Email</a>
 </div>
-
+<br clear="all"/>
 
 ## EDUCATION
 
