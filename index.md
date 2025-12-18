@@ -9,8 +9,12 @@
 
 <br clear="all"/>
 
-
-[CV](resume.pdf) • [LinkedIn](https://www.linkedin.com/in/neelima-prasad-41b0b21aa/)  • [GitHub](https://github.com/neelimagprasad) • [Email](mailto:neelima.prasad@colorado.edu)
+<div class="footer-links">
+  <a href="resume.pdf">CV</a>
+  <a href="https://www.linkedin.com/in/neelima-prasad-41b0b21aa/">LinkedIn</a>
+  <a href="https://github.com/neelimagprasad">GitHub</a>
+  <a href="mailto:neelima.prasad@colorado.edu">Email</a>
+</div>
 
 
 ## EDUCATION
