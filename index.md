@@ -10,13 +10,7 @@
 <br clear="all"/>
 
 
-
-
-
-
-
-
-[CV](CV_Everley_Tseng_Sep25.pdf) • [LinkedIn](https://www.linkedin.com/in/everley-tseng/) • [Google Scholar](https://scholar.google.com/citations?user=Ul6YnP8AAAAJ) • [GitHub](https://github.com/neelimagprasad) • [Email](mailto:neelima.prasad@colorado.edu)
+[CV](resume.pdf) • [LinkedIn](https://www.linkedin.com/in/neelima-prasad-41b0b21aa/)  • [GitHub](https://github.com/neelimagprasad) • [Email](mailto:neelima.prasad@colorado.edu)
 
 
 ## EDUCATION
