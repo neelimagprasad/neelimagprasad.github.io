@@ -70,27 +70,7 @@
 
 ## PUBLICATIONS
 
-**Visual Privacy Management with Generative AI for Blind and Low-Vision People**, Tanusree Sharma, Yu-Yun Tseng, Lotus Zhang, Ayae Ide, Kelly Avery Mack, Leah Findlater, Danna Gurari, Yang Wang. *The 26th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS)*, 2025. \[[paper](https://arxiv.org/abs/2507.00286)\]
+**Hierarchical Instance Tracking to Balance Privacy Preservation with Accessible Information**, Neelima Prasad, Jarek Reynolds, Neel Karsanbhai, Tanusree Sharma, Lotus Zhang, Abigale Stangl, Yang Wang, Leah Findlater, Danna Gurari. *Winter Conference on Applications of Computer Vision (WACV)*, 2026. \[[paper](https://www.arxiv.org/abs/2512.10102)\]
 
-**Acknowledging Focus Ambiguity in Visual Questions**, Chongyan Chen, Yu-Yun Tseng, Zhuoheng Li, Anush Venkatesh, Danna Gurari. *International Conference on Computer Vision (ICCV)*, 2025. \[[paper](https://arxiv.org/abs/2507.00286](https://arxiv.org/abs/2501.02201))\]
-
-**BIV-Priv-Seg: Locating Private Content in Images Taken by People With Visual Impairments**, Yu-Yun Tseng, Tanusree Sharma, Lotus Zhang, Abigale Stangl, Leah Findlater, Yang Wang, Danna Gurari. Oral presentation (top 8%), *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)*, 2025. \[[paper](https://openaccess.thecvf.com/content/WACV2025/papers/Tseng_BIV-Priv-Seg_Locating_Private_Content_in_Images_Taken_by_People_with_WACV_2025_paper.pdf), [oral presentation](https://www.youtube.com/watch?v=78WliClpPJI)\]
-
-**Learning-Based WiFi Fingerprint Inpainting via Generative Adversarial Networks**, Yu Chan, Pin-Yu Lin, Yu-Yun Tseng, Jen-Jee Chen, Yu-Chee Tseng.
-*IEEE International Conference on Computer Communications and Networks (ICCCN)*, 2024. \[[paper](https://ieeexplore.ieee.org/document/10637537)\]
-
-**Designing Accessible Obfuscation Support for Blind Individuals’ Visual Privacy Management**, Lotus Zhang, Tanusree Sharma, Abigale Stangl, Yu-Yun Tseng, Inan Xu, Danna Gurari, Yang Wang, Leah Findlater. *ACM Conference on Human Factors in Computing Systems (CHI)*, 2024. \[[paper](https://dl.acm.org/doi/10.1145/3613904.3642713)\]
-
-**Disability-First Design and Creation of A Dataset with Private Visual Information**, Tanusree Sharma, Abigale Stangl, Lotus Zhang, Yu-Yun Tseng, Inan Xu, Leah Findlater, Danna Gurari, Yang Wang. *ACM Conference on Human Factors in Computing Systems (CHI)*, 2023. \[[paper](https://dl.acm.org/doi/10.1145/3544548.3580922)\]
-
-**VizWiz-FewShot: Locating Objects in Images Taken by People With Visual Impairments**, Yu-Yun Tseng, Alexander Bell, Danna Gurari. *European Conference on Computer Vision (ECCV)*, 2022. \[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680563.pdf)\]
-
-**Efficient Vehicle Counting Based on Time-Spatial Images by Neural Networks**, Yu-Yun Tseng, Tzu-Chien Hsu, Jen-Jee Chen, Yu-Chee Tseng. *IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS)*, 2021. \[[paper](https://ieeexplore.ieee.org/document/9637752)\]
-
-**Computer Vision-Assisted Instant Alerts in 5G**, Yu-Yun Tseng, Po-Min Hsu, Jen-Jee Chen, Yu-Chee Tseng. *IEEE International Conference on Computer Communications and Networks (ICCCN)*, 2020. \[[paper](https://ieeexplore.ieee.org/document/9209751)\]
-
-## Talks
-
-- Area Exam - University of Colorado Boulder \[[video](https://www.youtube.com/watch?v=jat4_sOnd6U)\]
-- Vision and Color Summer Data Blast - OPTICA \[[page](https://www.optica.org/get_involved/technical_groups/vc/vision_and_color_summer_data_blast/)\]
+**Constraints on Gamma-ray Burst Inner Engines in a Blandford-Znajek Framework**, Nicole M Lloyd-Ronning , Chris Fryer , Jonah M Miller , Neelima Prasad , Chris Torres , Phillip Martin. *onthly Notices of the Royal Astronomical Society*, 2019. \[[paper](https://arxiv.org/abs/1902.01974))\]
 
