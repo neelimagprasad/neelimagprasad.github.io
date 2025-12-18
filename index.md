@@ -2,9 +2,9 @@
 
 ![Photo of Neelima](profile.png){: style="display:block; float:left; width:200px; height:267px; object-fit:cover; object-position:50% 85%; border-radius:6px; margin:8px 16px 8px 0; vertical-align:top;" }
 
-> My name is Neelima Prasad and I am a third-year Ph.D. candidate in Computer Science at the University of Colorado Boulder, advised by Professor Danna Gurari in the [Image and Video Computing (IVC) Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html). My research centers on developing vision systems that can accurately segment and track objects and their constituent parts across images and videos. I focus on image and video instance segmentation, multi-object tracking, and dataset creation.
+> I am a third-year Ph.D. candidate in Computer Science at the University of Colorado Boulder, advised by Professor Danna Gurari in the [Image and Video Computing (IVC) Group](https://home.cs.colorado.edu/~DrG/IVC_Group.html). My research centers on developing vision systems that can accurately segment and track objects and their constituent parts across images and videos. I focus on image and video instance segmentation, multi-object tracking, and dataset creation.
 >  
-> Before beginning my Ph.D., I worked as a Computer Scientist at the Naval Air Systems Command (NAVAIR), where I developed reinforcement learning systems for various defense simulations and designed tools for radar and electronic warfare analysis. Earlier, I spent several years as a research intern at Los Alamos National Laboratory, contributing to projects in cryptography, network analysis, and astrophysics, including co-authoring a publication on gamma-ray burst modeling. I earned my B.S. in Mathematics & Computer Science from UC San Diego and have since gained experience across industry and research labs. I am currently an AI engineering intern at LightTable, where I hope to continue bridging academic innovation and industry-scale deployment in computer vision.
+> Before beginning my Ph.D., I worked as a Computer Scientist at the Naval Air Systems Command (NAVAIR), where I developed reinforcement learning systems for various defense simulations. Earlier, I spent several years as a research intern at Los Alamos National Laboratory, contributing to projects in cryptography, network analysis, and astrophysics. I earned my B.S. in Mathematics & Computer Science from UC San Diego and have since gained experience across industry and research labs. I am currently an AI engineering intern at LightTable, where I hope to continue bridging academic innovation and industry-scale deployment in computer vision.
 {: .bio-mono}
 
 <div class="footer-links">
@@ -39,22 +39,14 @@
 
 <br clear="all"/>
 
-## EDUCATION
-
-**PhD**, Computer Science, University of Colorado Boulder *(2021-Present)*
-
-**MS**, Computational Intelligence, College of AI, National Chiao Tung University *(2019-2021)*
-
-**BS**, Engineering and System Science, National Tsing Hua University *(2013-2017)*
-
-## WORK EXPERIENCES
-
-**AI/ML Intern**, Marvell Semiconductor, Inc. *(2025-2025)*
-
-**Computer Vision Engineer**, Coretronic Corporation *(2017-2019)*
-
-**Research Intern**, Lite-On Technology Corporation *(2017-2017)*
-
+## NEWS
+|---------|--------|
+| 01/2026 | Starting my internship at [LightTable](https://www.lighttable.ai) |
+| 09/2025 | Passed my Area Exam! |
+| 09/2025 | [Paper](https://www.arxiv.org/abs/2512.10102) accepted at WACV 2026! |
+| 07/2025 | Attended CVPR 2025 in Nashville and helped with the [VizWiz Grand Challenge](https://vizwiz.org) |
+| 05/2025 | Received my Master's Degree at University of Colorado Boulder |
+| 09/2023 | Started my Ph.D. at University of Colorado Boulder |
 ## PUBLICATIONS
 
 **Visual Privacy Management with Generative AI for Blind and Low-Vision People**, Tanusree Sharma, Yu-Yun Tseng, Lotus Zhang, Ayae Ide, Kelly Avery Mack, Leah Findlater, Danna Gurari, Yang Wang. *The 26th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS)*, 2025. \[[paper](https://arxiv.org/abs/2507.00286)\]
