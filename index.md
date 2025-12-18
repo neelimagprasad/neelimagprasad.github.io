@@ -40,13 +40,34 @@
 <br clear="all"/>
 
 ## NEWS
-|---------|--------|
-| 01/2026 | Starting my internship at [LightTable](https://www.lighttable.ai) |
-| 09/2025 | Passed my Area Exam! |
-| 09/2025 | [Paper](https://www.arxiv.org/abs/2512.10102) accepted at WACV 2026! |
-| 07/2025 | Attended CVPR 2025 in Nashville and helped with the [VizWiz Grand Challenge](https://vizwiz.org) |
-| 05/2025 | Received my Master's Degree at University of Colorado Boulder |
-| 09/2023 | Started my Ph.D. at University of Colorado Boulder |
+
+<div class="news-table">
+  <div class="news-row">
+    <div class="news-date">01/2026</div>
+    <div class="news-item">Starting my internship at <a href="https://www.lighttable.ai">LightTable</a></div>
+  </div>
+  <div class="news-row">
+    <div class="news-date">09/2025</div>
+    <div class="news-item">Passed my Area Exam!</div>
+  </div>
+  <div class="news-row">
+    <div class="news-date">09/2025</div>
+    <div class="news-item"><a href="https://www.arxiv.org/abs/2512.10102">Paper</a> accepted at WACV 2026!</div>
+  </div>
+  <div class="news-row">
+    <div class="news-date">07/2025</div>
+    <div class="news-item">Attended CVPR 2025 in Nashville and helped with the <a href="https://vizwiz.org">VizWiz Grand Challenge</a></div>
+  </div>
+  <div class="news-row">
+    <div class="news-date">05/2025</div>
+    <div class="news-item">Received my Master’s degree at the University of Colorado Boulder</div>
+  </div>
+  <div class="news-row">
+    <div class="news-date">09/2023</div>
+    <div class="news-item">Started my Ph.D. at the University of Colorado Boulder</div>
+  </div>
+</div>
+
 ## PUBLICATIONS
 
 **Visual Privacy Management with Generative AI for Blind and Low-Vision People**, Tanusree Sharma, Yu-Yun Tseng, Lotus Zhang, Ayae Ide, Kelly Avery Mack, Leah Findlater, Danna Gurari, Yang Wang. *The 26th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS)*, 2025. \[[paper](https://arxiv.org/abs/2507.00286)\]
