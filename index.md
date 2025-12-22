@@ -72,5 +72,5 @@
 
 **Hierarchical Instance Tracking to Balance Privacy Preservation with Accessible Information**, Neelima Prasad, Jarek Reynolds, Neel Karsanbhai, Tanusree Sharma, Lotus Zhang, Abigale Stangl, Yang Wang, Leah Findlater, Danna Gurari. *Winter Conference on Applications of Computer Vision (WACV)*, 2026. \[[paper](https://www.arxiv.org/abs/2512.10102)\]
 
-**Constraints on Gamma-ray Burst Inner Engines in a Blandford-Znajek Framework**, Nicole M Lloyd-Ronning , Chris Fryer , Jonah M Miller , Neelima Prasad , Chris Torres , Phillip Martin. *onthly Notices of the Royal Astronomical Society*, 2019. \[[paper](https://arxiv.org/abs/1902.01974))\]
+**Constraints on Gamma-ray Burst Inner Engines in a Blandford-Znajek Framework**, Nicole M Lloyd-Ronning , Chris Fryer , Jonah M Miller , Neelima Prasad , Chris Torres , Phillip Martin. *onthly Notices of the Royal Astronomical Society*, 2019. \[[paper](https://arxiv.org/abs/1902.01974)\]
 
