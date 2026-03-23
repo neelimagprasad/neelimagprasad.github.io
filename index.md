@@ -52,7 +52,7 @@
   </div>
   <div class="news-row">
     <div class="news-date">09/2025</div>
-    <div class="news-item"><a href="https://www.arxiv.org/abs/2512.10102">Paper</a> accepted at WACV 2026!</div>
+    <div class="news-item"><a href="https://openaccess.thecvf.com/content/WACV2026/papers/Prasad_Hierarchical_Instance_Tracking_to_Balance_Privacy_Preservation_with_Accessible_Information_WACV_2026_paper.pdf">Paper</a> accepted at WACV 2026!</div>
   </div>
   <div class="news-row">
     <div class="news-date">07/2025</div>
