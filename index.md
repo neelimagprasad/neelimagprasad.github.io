@@ -8,7 +8,7 @@
 {: .bio-mono}
 
 <div class="footer-links">
-  <a href="resume.pdf" aria-label="CV">
+  <a href="Neelima_CV.pdf" aria-label="CV">
     <svg viewBox="0 0 24 24" aria-hidden="true">
       <path d="M6 2h9l3 3v17H6V2zm9 1.5V6h2.5L15 3.5zM8 9h8v1.5H8V9zm0 3h8v1.5H8V12zm0 3h6v1.5H8V15z"/>
     </svg>
